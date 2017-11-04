@@ -3,4 +3,8 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="colorTextButton">#FFFFFF</color>
+    <color name="colorBackGroundButton">#3F51B5</color>
+    <color name="topMessageTextColor">#000000</color>
+    <color name="relativeLayoutBackGroundColor">#26ade0</color>
 </resources>
